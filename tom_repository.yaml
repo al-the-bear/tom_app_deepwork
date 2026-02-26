@@ -1,0 +1,8 @@
+# Tom Repository Configuration
+# This file identifies the repository for git traversal commands
+
+repository_id: DPWRK
+name: deepwork
+description: >-
+  Deep Work productivity app — focused time management and distraction-free work sessions.
+github: al-the-bear/tom_app_deepwork
